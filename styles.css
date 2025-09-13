@@ -1,2 +1,40 @@
-
-/* Your CSS Code here. */
+.d3{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.d1{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.d2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.holder{
+	display:flex;
+	justify-content:space-between
+}
+.h1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.h2{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.h3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.item{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
